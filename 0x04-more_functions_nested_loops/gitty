@@ -1,0 +1,2 @@
+#!/bin/bash
+git add .; git commit -m "still learning more on functions and nested loops"; git push
