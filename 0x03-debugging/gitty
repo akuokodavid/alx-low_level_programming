@@ -1,0 +1,2 @@
+#!/bin/bash
+git add .; git commit -m "This is my attemtp at learning to debug"; git push
