@@ -1,0 +1,2 @@
+#!/bin/bash
+git add .; git commit -m "This is to help me better understand pointers, arrays and strings"; git push 
