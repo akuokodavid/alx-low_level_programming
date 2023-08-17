@@ -1,2 +1,0 @@
-#!/bin/bash
-git add .; git commit -m "This is to enable me learn about function pointers"; git push
